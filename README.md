@@ -1,5 +1,10 @@
 ﻿thunder-streaming-space
 =======================
+![GitHub repo size](https://img.shields.io/github/repo-size/tioncko/thunder-streaming-space?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/tioncko/thunder-streaming-space?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/tioncko/thunder-streaming-space?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/tioncko/thunder-streaming-space?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/tioncko/thunder-streaming-space?style=for-the-badge)
 
 Project that shows how a movie website works through an API integration with TMDb in a simple system create in .NET/C#, using only GET response as a way of simulate simple queries to this type of website.
 
