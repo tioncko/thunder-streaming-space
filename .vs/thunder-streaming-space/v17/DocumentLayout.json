@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\database\\pgsqlconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:database\\pgsqlconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\properties\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:properties\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\database\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:database\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\settings\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:settings\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\settings\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:settings\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\database\\entitysqlconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:database\\entitysqlconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|c:\\users\\nicsil\\documents\\personal\\codes\\c#\\dotnet_v6\\thunder-streaming-space\\jsonhandlers\\jsonmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2199F7D7-EFBC-4741-A857-F66180CD0315}|thunder-streaming-space.csproj|solutionrelative:jsonhandlers\\jsonmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Properties\\API.cs",
+              "RelativeDocumentMoniker": "Properties\\API.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Properties\\API.cs",
+              "RelativeToolTip": "Properties\\API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:45:18.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PgSQLConn.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\PgSQLConn.cs",
+              "RelativeDocumentMoniker": "Database\\PgSQLConn.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\PgSQLConn.cs",
+              "RelativeToolTip": "Database\\PgSQLConn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:44:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\DataSet.cs",
+              "RelativeDocumentMoniker": "Database\\DataSet.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\DataSet.cs",
+              "RelativeToolTip": "Database\\DataSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:44:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Settings\\Parameters.cs",
+              "RelativeDocumentMoniker": "Settings\\Parameters.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Settings\\Parameters.cs",
+              "RelativeToolTip": "Settings\\Parameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:44:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Settings\\Configuration.cs",
+              "RelativeDocumentMoniker": "Settings\\Configuration.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Settings\\Configuration.cs",
+              "RelativeToolTip": "Settings\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:44:34.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonMovies.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\JsonHandlers\\JsonMovies.cs",
+              "RelativeDocumentMoniker": "JsonHandlers\\JsonMovies.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\JsonHandlers\\JsonMovies.cs",
+              "RelativeToolTip": "JsonHandlers\\JsonMovies.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:08:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntitySQLConn.cs",
+              "DocumentMoniker": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\EntitySQLConn.cs",
+              "RelativeDocumentMoniker": "Database\\EntitySQLConn.cs",
+              "ToolTip": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\Database\\EntitySQLConn.cs",
+              "RelativeToolTip": "Database\\EntitySQLConn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:25:09.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXqdjWsxczOVcQ+8Y+OhZaa6Pd1s+MiKbqfmRHvU1UajIvuLMSi+gwAdDPse3tkxMRVFSTGcW3nm2gc8GrODAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicsil\\Documents\\Personal\\CODES\\C#\\dotNet_v6\\thunder-streaming-space\\thunder-streaming-space.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.18\\microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.18\\microsoft.entityframeworkcore.analyzers.7.0.18.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.11\\microsoft.entityframeworkcore.relational.7.0.11.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\8.0.0\\microsoft.extensions.configuration.commandline.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\8.0.0\\microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\8.0.0\\microsoft.extensions.configuration.usersecrets.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0\\microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.hosting\\8.0.0\\microsoft.extensions.hosting.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.console\\8.0.0\\microsoft.extensions.logging.console.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.debug\\8.0.0\\microsoft.extensions.logging.debug.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\8.0.0\\microsoft.extensions.logging.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\8.0.0\\microsoft.extensions.logging.eventsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicsil\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://10.15.15.55:8081/OlosNugetServer/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://10.15.15.55:8081/OlosNugetServerOPS/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
